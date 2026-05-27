@@ -3,11 +3,11 @@ status: Published
 description: Last but not least, the content structure and formatting.
 posted on: 2025-12-01
 tags: []
-"[d42] content kind": BlogPost
-"[d42] content id": 019b88992f3b7b2382a50780b5fdd653
-"[d42] published title": Content Structure and Formatting
-"[d42] published slug": content-structure-and-formatting-n3sl7470w
-"[d42] published on": 1771683335715
+"[draftist] content kind": BlogPost
+"[draftist] content id": 019b88992f3b7b2382a50780b5fdd653
+"[draftist] published title": Content Structure and Formatting
+"[draftist] published slug": content-structure-and-formatting-n3sl7470w
+"[draftist] published on": 1771683335715
 ---
 Headings, lists, text formatting, links, and horizontal rules. ^595d8e
 
@@ -99,7 +99,7 @@ With nesting: ^087416
 
 You can link to a [neighbor post](Images%20and%20Galleries.md) in your blog using markdown link syntax. ^531ba9
 
-External links are surely supported: [documentation](https://docs.draft42.io). ^abbf1e
+External links are surely supported: [documentation](https://docs.draftist.io). ^abbf1e
 
 ## Final Example ^e1134d
 
@@ -107,7 +107,7 @@ Multiple elements together: ^0b734e
 
 1. **Formatted text** with *emphasis* ^0f5cb6
 2. [Internal link](Welcome!.md) ^7a56f5
-3. [External link](https://draft42.io) ^74989b
+3. [External link](https://draftist.io) ^74989b
 4. `Inline code` reference ^efa223
 5. Nested list: ^6c9b60
    - Sub-item
@@ -117,4 +117,4 @@ Multiple elements together: ^0b734e
 
 ---
 
-*See [documentation](https://docs.draft42.io) for details.* ^d32ea5
+*See [documentation](https://docs.draftist.io) for details.* ^d32ea5

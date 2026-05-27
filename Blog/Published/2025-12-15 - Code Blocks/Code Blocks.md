@@ -3,13 +3,13 @@ status: Published
 description: Syntax highlighting, file labels, line highlighting—all the code stuff.
 posted on: 2025-12-15
 tags: []
-"[d42] content kind": BlogPost
-"[d42] content id": 019b8897edf27bb2b2f395f21e5d6d99
-"[d42] published title": Code Blocks
-"[d42] published slug": code-blocks-bvweaua6g
-"[d42] published on": 1771515061419
+"[draftist] content kind": BlogPost
+"[draftist] content id": 019b8897edf27bb2b2f395f21e5d6d99
+"[draftist] published title": Code Blocks
+"[draftist] published slug": code-blocks-bvweaua6g
+"[draftist] published on": 1771515061419
 ---
-Code is everywhere in technical writing. Here's how it looks when published with [Draft42](https://draft42.io/). ^11db50
+Code is everywhere in technical writing. Here's how it looks when published with [Draftist](https://draftist.io/). ^11db50
 
 ## Basic Code Blocks ^57ec2f
 

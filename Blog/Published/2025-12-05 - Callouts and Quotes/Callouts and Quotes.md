@@ -3,11 +3,11 @@ status: Published
 description: Highlight important bits, warn readers, show examples.
 posted on: 2025-12-05
 tags: []
-"[d42] content kind": BlogPost
-"[d42] content id": 019b8898f49a7dd3900a22bedcfe3766
-"[d42] published title": Callouts and Quotes
-"[d42] published slug": callouts-and-quotes-0pfs7u1c0
-"[d42] published on": 1771515090150
+"[draftist] content kind": BlogPost
+"[draftist] content id": 019b8898f49a7dd3900a22bedcfe3766
+"[draftist] published title": Callouts and Quotes
+"[draftist] published slug": callouts-and-quotes-0pfs7u1c0
+"[draftist] published on": 1771515090150
 ---
 Callouts are those colored thingies that highlight important information. Blockquotes are for, well, quoting stuff. Here's how they look like. ^f25af8
 
