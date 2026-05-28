@@ -7,7 +7,7 @@ tags: []
 "[draftist] content id": 019b88992f3b7b2382a50780b5fdd653
 "[draftist] published title": Content Structure and Formatting
 "[draftist] published slug": content-structure-and-formatting-n3sl7470w
-"[draftist] published on": 1771683335715
+"[draftist] published on": 1779963642843
 ---
 Headings, lists, text formatting, links, and horizontal rules. ^595d8e
 
