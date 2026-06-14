@@ -7,7 +7,7 @@ tags: []
 "[draftist] content id": 019b8898f49a7dd3900a22bedcfe3766
 "[draftist] published title": Callouts and Quotes
 "[draftist] published slug": callouts-and-quotes-0pfs7u1c0
-"[draftist] published on": 1780168652208
+"[draftist] published on": 1781448221502
 ---
 Callouts are those colored thingies that highlight important information. Blockquotes are for, well, quoting stuff. Here's how they look like. ^f25af8
 

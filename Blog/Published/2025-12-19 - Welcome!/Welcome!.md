@@ -7,7 +7,7 @@ tags: []
 "[draftist] content id": 019b8897b8e272e29a4f88e3b68b3cf9
 "[draftist] published title": Welcome!
 "[draftist] published slug": welcome-247amwl20
-"[draftist] published on": 1780168610298
+"[draftist] published on": 1781448189999
 ---
 You've just discovered the **Demo Site** for [Draftist](https://draftist.io), a publishing platform that transforms your [Obsidian](https://obsidian.md/) notes into beautiful, fast websites. ^c71c42
 

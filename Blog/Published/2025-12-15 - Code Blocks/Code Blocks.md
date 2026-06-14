@@ -7,7 +7,7 @@ tags: []
 "[draftist] content id": 019b8897edf27bb2b2f395f21e5d6d99
 "[draftist] published title": Code Blocks
 "[draftist] published slug": code-blocks-bvweaua6g
-"[draftist] published on": 1780168623550
+"[draftist] published on": 1781448196927
 ---
 Code is everywhere in technical writing. Here's how it looks when published with [Draftist](https://draftist.io/). ^11db50
 
