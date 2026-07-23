@@ -2,12 +2,13 @@
 status: Published
 description: Last but not least, the content structure and formatting.
 posted on: 2025-12-01
+favorite: false
 tags: []
 "[draftist] content kind": BlogPost
 "[draftist] content id": 019b88992f3b7b2382a50780b5fdd653
 "[draftist] published title": Content Structure and Formatting
 "[draftist] published slug": content-structure-and-formatting-n3sl7470w
-"[draftist] published on": 1781448232810
+"[draftist] published on": 1784825518032
 ---
 Headings, lists, text formatting, links, and horizontal rules. ^595d8e
 

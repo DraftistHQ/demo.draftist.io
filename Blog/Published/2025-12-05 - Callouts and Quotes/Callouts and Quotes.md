@@ -2,12 +2,13 @@
 status: Published
 description: Highlight important bits, warn readers, show examples.
 posted on: 2025-12-05
+favorite: false
 tags: []
 "[draftist] content kind": BlogPost
 "[draftist] content id": 019b8898f49a7dd3900a22bedcfe3766
 "[draftist] published title": Callouts and Quotes
 "[draftist] published slug": callouts-and-quotes-0pfs7u1c0
-"[draftist] published on": 1781448221502
+"[draftist] published on": 1784825505845
 ---
 Callouts are those colored thingies that highlight important information. Blockquotes are for, well, quoting stuff. Here's how they look like. ^f25af8
 

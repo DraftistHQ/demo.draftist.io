@@ -2,6 +2,7 @@
 status: Published
 description: A visual tour through media features—because some stories are best told with pictures.
 posted on: 2025-12-07
+favorite: true
 cover: "[[cover-DSC_3821.1d719396.jpg]]"
 cover credit text: "@alex35mil"
 cover credit link: https://www.instagram.com/alex35mil/
@@ -10,7 +11,7 @@ tags: []
 "[draftist] content id": 019b8898a7b47b40aaa0ddd599301274
 "[draftist] published title": Images and Galleries
 "[draftist] published slug": images-and-galleries-b3prdmw4f
-"[draftist] published on": 1781448206671
+"[draftist] published on": 1784825480321
 ---
 What you see above is Mount Bromo—an active volcano in East Java. Looks like Mars, right? This image also serves as a cover for this post, with an optional credit link below it. ^97df36
 

@@ -2,12 +2,13 @@
 status: Published
 description: Explore what's possible when you publish with Draftist.
 posted on: 2025-12-19
+favorite: true
 tags: []
 "[draftist] content kind": BlogPost
 "[draftist] content id": 019b8897b8e272e29a4f88e3b68b3cf9
 "[draftist] published title": Welcome!
 "[draftist] published slug": welcome-247amwl20
-"[draftist] published on": 1781448189999
+"[draftist] published on": 1784825534371
 ---
 You've just discovered the **Demo Site** for [Draftist](https://draftist.io), a publishing platform that transforms your [Obsidian](https://obsidian.md/) notes into beautiful, fast websites. ^c71c42
 
